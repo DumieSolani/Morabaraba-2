@@ -1,0 +1,30 @@
+C:\Users\Dumisani\Desktop\Cs3\morabaraba\New folder\morabaraba-2\morabaraba-2\bin\Debug\morabaraba-2.exe.config
+C:\Users\Dumisani\Desktop\Cs3\morabaraba\New folder\morabaraba-2\morabaraba-2\bin\Debug\morabaraba-2.exe
+C:\Users\Dumisani\Desktop\Cs3\morabaraba\New folder\morabaraba-2\morabaraba-2\bin\Debug\morabaraba-2.pdb
+C:\Users\Dumisani\Desktop\Cs3\morabaraba\New folder\morabaraba-2\morabaraba-2\obj\Debug\MainWindow.g.cs
+C:\Users\Dumisani\Desktop\Cs3\morabaraba\New folder\morabaraba-2\morabaraba-2\obj\Debug\App.g.cs
+C:\Users\Dumisani\Desktop\Cs3\morabaraba\New folder\morabaraba-2\morabaraba-2\obj\Debug\morabaraba-2_MarkupCompile.cache
+C:\Users\Dumisani\Desktop\Cs3\morabaraba\New folder\morabaraba-2\morabaraba-2\obj\Debug\morabaraba-2_MarkupCompile.lref
+C:\Users\Dumisani\Desktop\Cs3\morabaraba\New folder\morabaraba-2\morabaraba-2\obj\Debug\MainWindow.baml
+C:\Users\Dumisani\Desktop\Cs3\morabaraba\New folder\morabaraba-2\morabaraba-2\obj\Debug\morabaraba-2.g.resources
+C:\Users\Dumisani\Desktop\Cs3\morabaraba\New folder\morabaraba-2\morabaraba-2\obj\Debug\morabaraba_2.Properties.Resources.resources
+C:\Users\Dumisani\Desktop\Cs3\morabaraba\New folder\morabaraba-2\morabaraba-2\obj\Debug\morabaraba-2.csproj.GenerateResource.Cache
+C:\Users\Dumisani\Desktop\Cs3\morabaraba\New folder\morabaraba-2\morabaraba-2\obj\Debug\morabaraba-2.csproj.CoreCompileInputs.cache
+C:\Users\Dumisani\Desktop\Cs3\morabaraba\New folder\morabaraba-2\morabaraba-2\obj\Debug\morabaraba-2.exe
+C:\Users\Dumisani\Desktop\Cs3\morabaraba\New folder\morabaraba-2\morabaraba-2\obj\Debug\morabaraba-2.pdb
+C:\Users\Dumisani\Desktop\Cs3\morabaraba\New folder\morabaraba-2\morabaraba-2\obj\Debug\morabaraba-2.csprojResolveAssemblyReference.cache
+\\ict.ru.ac.za\DFS\UGHomes\g16s2145\Desktop\csc3 Morabaraba-20180409T074343Z-001\csc3 Morabaraba\morabaraba-2\morabaraba-2\bin\Debug\morabaraba-2.exe.config
+\\ict.ru.ac.za\DFS\UGHomes\g16s2145\Desktop\csc3 Morabaraba-20180409T074343Z-001\csc3 Morabaraba\morabaraba-2\morabaraba-2\bin\Debug\morabaraba-2.exe
+\\ict.ru.ac.za\DFS\UGHomes\g16s2145\Desktop\csc3 Morabaraba-20180409T074343Z-001\csc3 Morabaraba\morabaraba-2\morabaraba-2\bin\Debug\morabaraba-2.pdb
+\\ict.ru.ac.za\DFS\UGHomes\g16s2145\Desktop\csc3 Morabaraba-20180409T074343Z-001\csc3 Morabaraba\morabaraba-2\morabaraba-2\obj\Debug\morabaraba-2.csprojResolveAssemblyReference.cache
+\\ict.ru.ac.za\DFS\UGHomes\g16s2145\Desktop\csc3 Morabaraba-20180409T074343Z-001\csc3 Morabaraba\morabaraba-2\morabaraba-2\obj\Debug\MainWindow.g.cs
+\\ict.ru.ac.za\DFS\UGHomes\g16s2145\Desktop\csc3 Morabaraba-20180409T074343Z-001\csc3 Morabaraba\morabaraba-2\morabaraba-2\obj\Debug\App.g.cs
+\\ict.ru.ac.za\DFS\UGHomes\g16s2145\Desktop\csc3 Morabaraba-20180409T074343Z-001\csc3 Morabaraba\morabaraba-2\morabaraba-2\obj\Debug\morabaraba-2_MarkupCompile.cache
+\\ict.ru.ac.za\DFS\UGHomes\g16s2145\Desktop\csc3 Morabaraba-20180409T074343Z-001\csc3 Morabaraba\morabaraba-2\morabaraba-2\obj\Debug\morabaraba-2_MarkupCompile.lref
+\\ict.ru.ac.za\DFS\UGHomes\g16s2145\Desktop\csc3 Morabaraba-20180409T074343Z-001\csc3 Morabaraba\morabaraba-2\morabaraba-2\obj\Debug\MainWindow.baml
+\\ict.ru.ac.za\DFS\UGHomes\g16s2145\Desktop\csc3 Morabaraba-20180409T074343Z-001\csc3 Morabaraba\morabaraba-2\morabaraba-2\obj\Debug\morabaraba-2.g.resources
+\\ict.ru.ac.za\DFS\UGHomes\g16s2145\Desktop\csc3 Morabaraba-20180409T074343Z-001\csc3 Morabaraba\morabaraba-2\morabaraba-2\obj\Debug\morabaraba_2.Properties.Resources.resources
+\\ict.ru.ac.za\DFS\UGHomes\g16s2145\Desktop\csc3 Morabaraba-20180409T074343Z-001\csc3 Morabaraba\morabaraba-2\morabaraba-2\obj\Debug\morabaraba-2.csproj.GenerateResource.Cache
+\\ict.ru.ac.za\DFS\UGHomes\g16s2145\Desktop\csc3 Morabaraba-20180409T074343Z-001\csc3 Morabaraba\morabaraba-2\morabaraba-2\obj\Debug\morabaraba-2.csproj.CoreCompileInputs.cache
+\\ict.ru.ac.za\DFS\UGHomes\g16s2145\Desktop\csc3 Morabaraba-20180409T074343Z-001\csc3 Morabaraba\morabaraba-2\morabaraba-2\obj\Debug\morabaraba-2.exe
+\\ict.ru.ac.za\DFS\UGHomes\g16s2145\Desktop\csc3 Morabaraba-20180409T074343Z-001\csc3 Morabaraba\morabaraba-2\morabaraba-2\obj\Debug\morabaraba-2.pdb
